@@ -1,4 +1,4 @@
 @font-face {
     font-family: 'LegoFont';
-    src: url('https://tarangpadia.github.io/ImagesTesting/LegoFont.ttf') format('ttf');
+    src: url('./LegoFont.ttf') format('ttf');
 }
