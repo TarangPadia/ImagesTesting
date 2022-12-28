@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'PrestageRegular';
-    src: url(https://tarangpadia.github.io/ImagesTesting/PrestageRegular.ttf) format('ttf');
+    src: url('https://tarangpadia.github.io/ImagesTesting/PrestageRegular.ttf') format('ttf');
 }
 
 @font-face {
     font-family: 'MercFont';
-    src: url(https://tarangpadia.github.io/ImagesTesting/Mercedes-Benz-Corpo.ttf) format('ttf');
+    src: url('https://tarangpadia.github.io/ImagesTesting/Mercedes-Benz-Corpo.ttf') format('ttf');
 }
 
 @font-face {
     font-family: 'LegoFont';
-    src: url(https://tarangpadia.github.io/ImagesTesting/LegoFont.ttf) format('ttf');
+    src: url('https://tarangpadia.github.io/ImagesTesting/LegoFont.ttf') format('ttf');
 }
